@@ -1,3 +1,6 @@
 import { bro } from './bro';
-import './styles/main.scss';
 console.log(bro('Hey'));
+
+import './styles/main.scss';
+
+import './images/mountain.jpg';
